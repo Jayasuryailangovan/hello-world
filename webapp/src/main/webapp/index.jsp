@@ -26,6 +26,9 @@
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
+    <div style='position:absolute;zindex:0;left:0;top:0;width:100%;height:100%'>
+           <img src='D:\Ajanta Ellora\IMG_20211119_175916.jpg' style='width:100%;height:100%' alt='[]' />
+    </div>
   </div>
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
