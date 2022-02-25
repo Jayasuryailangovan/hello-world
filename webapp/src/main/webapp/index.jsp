@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-<h1>Hello Keerthivasan !!!!!! Welcome to DevOps learning</h1>
+<h1>Hello Keerthivasan ! Welcome to DevOps learning</h1>
     <h1>New user Register for DevOps Learning</h1>
     <p>Hello !! Please fill in this form to create an account.</p>
     <hr>
@@ -27,7 +27,7 @@
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
     <div style='position:absolute;zindex:0;left:0;top:0;width:100%;height:100%'>
-           <img src='D:\Ajanta Ellora\IMG_20211119_175916.jpg' style='width:100%;height:100%' alt='[]' />
+           <img src='https://tse2.mm.bing.net/th?id=OIP.RiZmdL3bxbOhgZ9yqBtCbAHaGU&pid=Api&P=0&w=181&h=154' style='width:100%;height:100%' alt='[]' />
     </div>
   </div>
   <div class="container signin">
