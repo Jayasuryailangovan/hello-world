@@ -5,7 +5,7 @@
     <p>Hello !! Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name"><b>Enter your first Name</b></label>
+    <label for="Name of the student"><b>Enter your first Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" requireid>
     
     
@@ -26,9 +26,6 @@
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
-    <div style='position:absolute;zindex:0;left:0;top:0;width:100%;height:100%'>
-           <img src='https://tse2.mm.bing.net/th?id=OIP.RiZmdL3bxbOhgZ9yqBtCbAHaGU&pid=Api&P=0&w=181&h=154' style='width:100%;height:100%' alt='[]' />
-    </div>
   </div>
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
