@@ -5,8 +5,8 @@
     <p>Hello !! Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name of the student"><b>Enter your first Name</b></label>
-    <input type="text" placeholder="Enter Full Name" name="Name" id="Name" requireid>
+    <label for="Name"><b>Enter your first Name</b></label>
+    <input type="text" placeholder="Enter your Full Name" name="Name" id="Name" requireid>
     
     
     <label for="mobile"><b>Enter mobile</b></label>
